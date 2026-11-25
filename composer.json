@@ -1,0 +1,15 @@
+{
+    "name": "mariusz/lablistopad",
+    "autoload": {
+        "psr-4": {
+            "Mariusz\\Lablistopad\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariusz M",
+            "email": "mariusz.mortka@gmail.com"
+        }
+    ],
+    "require": {}
+}
